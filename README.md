@@ -1,6 +1,6 @@
 # Hackathon 2026
 
-Bienvenido al Hackathon CraftTech.
+Bienvenido al Hackathon TVHACKATHON 2026 Track:CraftTech.
 
 ## Instrucciones del reto
 Lee todo aquí: https://serendipiaentrepreneurs.github.io/Hackathon-2026/
